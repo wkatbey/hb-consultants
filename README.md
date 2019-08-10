@@ -1,2 +1,2 @@
-# hb-consultants
-Website for HB Consultants, Django-based
+# all-wireless
+Django-Based Webpage for All Wireless 
